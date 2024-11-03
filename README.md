@@ -21,9 +21,9 @@ Cada pasta neste repositório representa um dia do desafio, contendo os códigos
 
 ```bash
 .
-├── dia-01/
-├── dia-02/
-├── dia-03/
+├── 001/
+├── 002/
+├── 003/
 ├── ...
 └── README.md
 ```
