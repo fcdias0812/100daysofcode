@@ -1,0 +1,1 @@
+console.log("Olá, mundo! Este script está sendo executado pelo Node.js.");
